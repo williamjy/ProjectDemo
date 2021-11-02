@@ -1,4 +1,5 @@
 # General
+# DO NOT COPY
 ## Installation of Repository
 1. Obtain a copy of the repository on https://github.com/COMP3900-9900-Capstone-Project/capstoneproject-comp3900-w18a-nuggets in order to obtain the source code. You may choose a plethora of methods such as clone, download as zip or HTTPS.
     * If you do not have access to the repository and require access, please contact the administrator via z5264837@cse.unsw.edu.au.
