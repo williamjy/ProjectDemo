@@ -1,0 +1,4 @@
+security:
+  encryption:
+    token_secret: "secret_nugget"
+  google_api: "AIzaSyCG80LxbPTd4MNoZuPdzbF-aQA_DcCAGVQ"
